@@ -1,0 +1,36 @@
+*{
+    max-width: 1000px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.box1{
+    padding: 1px;
+    background-color: gray;
+    color: white;
+}
+
+.box2 {
+    text-align: center;
+    color: white;
+    background-color: aqua;
+    margin: 0;
+}
+
+.box2 .button{
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    margin: 15px;
+}
+
+.box3 {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    
+}
